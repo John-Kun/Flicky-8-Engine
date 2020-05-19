@@ -7,3 +7,5 @@ Credits:
 Devs: F4LK - Creator. (2017) A.NB - Programmer. (2018) John-Kun - Ported for Game Maker 8.x/Programmer. (2019-2020) Code Assist: Noah Copeland Code Assists: (Past) TPOT Great Lange Mr Potatobadger AeroGP Level Designer: A.NB Savordez Sprites: MrLevRocks Music: MaxieDaMan (Michael Staple) Beta Testers: Ashy Illias Polar-Star ScarlyNight / Capper SoniKast Starz0r Hexagonal SoupTaels Bluie Dashboy Lazyhog (Welber13) GEONEO!!! Noah Copeland Voltrix DaveSkye Speed TeX TheValeev Dolphman Lilac MarioMan574 CG(Calebe) CasaNova(And Flicky 8 Logo creator) MaxieDaMan (Michael Staple) mttwbarajas Savordez Swift Fchar Swag63.
 
 Any bugs call me in Discord: John-Kun#4268
+
+Game Maker Studio Port: https://gamejolt.com/games/Flicky8Engine/458377
